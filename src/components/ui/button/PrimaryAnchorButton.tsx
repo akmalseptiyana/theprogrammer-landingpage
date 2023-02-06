@@ -11,7 +11,7 @@ export default function PrimaryAnchorButton({
     <a
       href={href}
       className={clsx(
-        "text-white flex items-center gap-x-2 py-[0.90625rem]",
+        "text-white flex items-center gap-x-2 py-[.875rem]",
         className
       )}
     >

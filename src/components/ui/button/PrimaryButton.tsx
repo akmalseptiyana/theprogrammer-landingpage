@@ -6,7 +6,7 @@ export default function PrimaryButton({ children, className }: ButtonProps) {
   return (
     <button
       className={clsx(
-        "px-6 py-4 text-[#121608] bg-primary flex items-center gap-x-2",
+        "px-6 py-[.875rem] text-[#121608] bg-primary flex items-center gap-x-2",
         className
       )}
     >
