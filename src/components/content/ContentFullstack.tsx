@@ -5,7 +5,7 @@ import PrimaryAnchorButton from "@/components/ui/button/PrimaryAnchorButton";
 
 export default function ContentFullstack() {
   return (
-    <section className="container mt-40">
+    <section className="container mt-[15.375rem]">
       <div className="flex flex-wrap items-center justify-between">
         <div className="max-w-[41.1875rem]">
           <h2 className="text-white">
